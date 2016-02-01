@@ -58,6 +58,10 @@ Especially if you’ve never used the command line before, you may want to go th
 4. Go through the Treehouse course on [Environment and Redirection](http://teamtreehouse.com/library/programming/console-foundations#environmen…)
 5. Read and practice with [A Command Line Primer for Beginners](http://lifehacker.com/5633909/who-needs-a-mouse-learn-to-use-the-command-li…)
 
+### Supplemental
+If you want to spend more time with the command line (and I highly recommend you do), check out
+[Learn Enough Command Line to be Dangerous](http://www.learnenough.com/command-line-tutorial).  The more you can handle from the command line, the quicker you will be able to tackle the things that really matter!
+
 ## git
 Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
 
