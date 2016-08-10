@@ -5,7 +5,7 @@ There are quite a few tasks and learning topics that are necessary to take care 
 
 I don’t believe you can really learn to program by watching a few videos and answering some questions (and if you believed that, you probably wouldn’t be coming to The Iron Yard). However, skill acquisition takes a long time, and this work will help introduce you to some of the ideas and skills that will form the foundation of your in-person learning experience.
 
-This work should be completed by February 1st and any deliverables should be emailed to me by then. I will assume that you have completed this work before class, so you will likely feel very far behind if you haven’t finished when we start class on February 1st.
+This work should be completed by September 12th and any deliverables should be emailed to me by then. I will assume that you have completed this work before class, so you will likely feel very far behind if you haven’t finished when we start class on September 12th.
 
 In order to complete some of these tasks, you will need to register for an account with Treehouse. Treehouse is free for 14 days (which should be more than enough to finish the required courses), and is $25/month after the trial.
 
@@ -20,7 +20,7 @@ The following are the learning objectives for this prework, all of which are imp
 
 ## Mindset
 1. Read [Fixed vs. Growth: The Two Basic Mindsets That Shape Our Lives](http://www.brainpickings.org/2014/01/29/carol-dweck-mindset/)
-2. Compose an email to Calvin (calvin@theironyard.com) & Nathan (nathan.hall@theironyard.com) answering the following questions:
+2. Compose an email to Betsy (betsy@theironyard.com) answering the following questions:
 - Which type of mindset (growth or fixed) do you think you are most strongly associated with? Why?
 - What difficulties do you predict that you will encounter during our course? How have you reacted to similar situations in the past? How do you plan on reacting to these situations during the class?
 
@@ -77,7 +77,7 @@ GitHub is a web-based hosting and communication service for software development
 
 1. Sign up for a GitHub account at https://github.com/
 2. Make sure to add a profile picture and your full name, since this will help me learn your name.
-3. Email me (calvin@theironyard.com) the username you choose so that I can get you added to the group we'll be using for class.
+3. Email me (betsy@theironyard.com) the username you choose so that I can get you added to the group we'll be using for class.
 
 ### Supplemental
 Check out the [GitHub Guides](https://guides.github.com/) if you want to learn how to use GitHub prior to class.
